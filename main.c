@@ -42,7 +42,7 @@
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-char tx_data []="please select colour ,R<G and B?/r/n";
+char tx_data []="please select colour ,R,G and B?/r/n";
 char rx_data [1];
 /* USER CODE END PV */
 
